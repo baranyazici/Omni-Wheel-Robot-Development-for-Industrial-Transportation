@@ -1,4 +1,4 @@
-The Omni-Wheel Robot, which can be driven without hitting obstacles, was developed to be used in transportation conditions that may be required in industrial spaces, in the Özyeğin University Electrical and Electronics Engineering department graduation project was produced by Ahmet Baran Yazıcı and Bilge Kaan Tekin.
+> **_PROJECT DESCRIPTION:_** The Omni-Wheel Robot, which can be driven without hitting obstacles, was developed to be used in transportation conditions that may be required in industrial spaces, in the Özyeğin University Electrical and Electronics Engineering department graduation project was produced by Ahmet Baran Yazıcı and Bilge Kaan Tekin.
 
 ## Components
 
@@ -17,11 +17,6 @@ The Omni-Wheel Robot, which can be driven without hitting obstacles, was develop
 
 *******************
 
-                       				     
-			         	                  				
-
-
-
-
+             
 # Omni Wheel Robot Development for Industrial Transportation
 ![devs_with_robot](https://github.com/baranyazici/Omni-Wheel-Robot-Development-for-Industrial-Transportation/assets/47660382/9af8aa0b-3988-44e1-9842-0695f42501eb)
