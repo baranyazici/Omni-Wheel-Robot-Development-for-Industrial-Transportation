@@ -11,10 +11,13 @@ Components
 * 100uF Capacitor                           x4
 * 100nF Capacitor                           x1
 * 47uF 25V Capacitor                        x1
-* 60 mm Mecanum Wheel                   	  x4
+* 60 mm Mecanum Wheel                       x4
 * 3-Cell 11.1V 3700mAh Li-Polymer Battery   x1
 * CNC Manufactured Couplings                x4
-* HW-201 IR Obstacle Avoiding Sensor        x4 
+* HW-201 IR Obstacle Avoiding Sensor        x4
+
+*******************
+
                        				     
 			         	                  				
 
