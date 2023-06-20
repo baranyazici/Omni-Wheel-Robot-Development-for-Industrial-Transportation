@@ -17,7 +17,7 @@
 
 *******************
 
-Video implementation and of this robot can be watched with this [link](https://youtu.be/IAhqdZXjo0E)
+Here is the [video](https://youtu.be/IAhqdZXjo0E) where the robot is controlled via the mobile application, all commands are performed, and the direction of rotation of the wheels is shown according to the commands.
 
              
 # Omni Wheel Robot Development for Industrial Transportation
